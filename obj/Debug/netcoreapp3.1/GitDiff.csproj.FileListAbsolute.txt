@@ -1,0 +1,11 @@
+C:\Users\TheGa\source\repos\GitDiff\bin\Debug\netcoreapp3.1\GitDiff.exe
+C:\Users\TheGa\source\repos\GitDiff\bin\Debug\netcoreapp3.1\GitDiff.deps.json
+C:\Users\TheGa\source\repos\GitDiff\bin\Debug\netcoreapp3.1\GitDiff.runtimeconfig.json
+C:\Users\TheGa\source\repos\GitDiff\bin\Debug\netcoreapp3.1\GitDiff.runtimeconfig.dev.json
+C:\Users\TheGa\source\repos\GitDiff\bin\Debug\netcoreapp3.1\GitDiff.dll
+C:\Users\TheGa\source\repos\GitDiff\bin\Debug\netcoreapp3.1\GitDiff.pdb
+C:\Users\TheGa\source\repos\GitDiff\obj\Debug\netcoreapp3.1\GitDiff.csprojAssemblyReference.cache
+C:\Users\TheGa\source\repos\GitDiff\obj\Debug\netcoreapp3.1\GitDiff.AssemblyInfoInputs.cache
+C:\Users\TheGa\source\repos\GitDiff\obj\Debug\netcoreapp3.1\GitDiff.AssemblyInfo.cs
+C:\Users\TheGa\source\repos\GitDiff\obj\Debug\netcoreapp3.1\GitDiff.dll
+C:\Users\TheGa\source\repos\GitDiff\obj\Debug\netcoreapp3.1\GitDiff.pdb
