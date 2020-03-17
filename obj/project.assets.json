@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TheGa\\source\\repos\\GitDiff\\GitDiff.csproj",
+      "projectUniqueName": "C:\\Users\\TheGa\\source\\repos\\Algorithms Assessment 2- Jonathan Byrne\\GitDiff.csproj",
       "projectName": "GitDiff",
-      "projectPath": "C:\\Users\\TheGa\\source\\repos\\GitDiff\\GitDiff.csproj",
+      "projectPath": "C:\\Users\\TheGa\\source\\repos\\Algorithms Assessment 2- Jonathan Byrne\\GitDiff.csproj",
       "packagesPath": "C:\\Users\\TheGa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TheGa\\source\\repos\\GitDiff\\obj\\",
+      "outputPath": "C:\\Users\\TheGa\\source\\repos\\Algorithms Assessment 2- Jonathan Byrne\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TheGa\\AppData\\Roaming\\NuGet\\NuGet.Config",
